@@ -44,5 +44,5 @@ The pipeline supports **demographic, clinical, and economic trend analysis**, he
 - Automated repetitive analysis tasks, cutting analysis time significantly.  
 - Generated insights for **healthcare decision-making & policy formulation**.
 
-🔹 Author
-Pranav Kapoor 
+## 🔹 Author
+👤 Pranav Kapoor 
